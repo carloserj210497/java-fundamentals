@@ -1,0 +1,26 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+gen/
+
+# Archivos específicos de la app si usas Android Studio / IntelliJ
+.navigation/
+
+# Notas de configuración local del usuario (pueden contener rutas locales)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionary.xml
+.idea/shelf/
+
+# Archivos generados por servidores integrados de JetBrains
+.idea/artifacts/
+.idea/tunnels/
+
+# Bases de datos y archivos de datos locales de IntelliJ
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/dataSources.ids
